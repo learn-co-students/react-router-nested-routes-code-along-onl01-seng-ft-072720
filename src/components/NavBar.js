@@ -1,4 +1,4 @@
-import React from 'react';
+Movie Lisimport React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const NavBar = () => {
